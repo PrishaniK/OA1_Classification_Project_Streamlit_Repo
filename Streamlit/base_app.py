@@ -106,9 +106,7 @@ def load_model(file_path):
 
 def main():
     """News classifier"""
-    st.image("vintage-newspaper.jpg")
 
-      
     # Load vectorizer
     with open(tfidf_vectorizer_path, 'rb') as file:
         tfidf_vectorizer = joblib.load(file)
