@@ -6,11 +6,9 @@ joblib==1.4.2
 pandas==2.2.1
 nltk==3.8.1
 scikit-learn==1.4.2
-matplotlib==3.8.4=pypi_0
-matplotlib-base==3.8.4=py312hc7c4135_0
-matplotlib-inline==0.1.6=py312haa95532_0
+matplotlib==3.5.1
 seaborn==0.13.2
-textblob==0.18.0.post0
+textblob==0.18.0
 
 
 
